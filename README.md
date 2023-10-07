@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/fabricedelahaij" target="_blank"><img src="https://github.com/FabriceDelahaij/.github/blob/main/images/linkedin.svg" width="20" height="20"></a>
-    <a href="https://twitter.com/fabricedelahaij" target="_blank"><img src="https://github.com/FabriceDelahaij/.github/blob/main/images/twitter.svg" width="20" height="20"></a>
-    <a href="https://keybase.io/fabricedelahaij" target="_blank"><img src="https://github.com/FabriceDelahaij/.github/blob/main/images/keybase.svg" width="20" height="20"></a>
+    <a href="https://linkedin.com/in/fabricedelahaij" target="_blank"><img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/linkedin.svg" width="20" height="20"></a>
+    <a href="https://twitter.com/fabricedelahaij" target="_blank"><img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/twitter.svg" width="20" height="20"></a>
+    <a href="https://keybase.io/fabricedelahaij" target="_blank"><img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/keybase.svg" width="20" height="20"></a>
 </p>
 
 
@@ -15,55 +15,59 @@
 <table>
     <tr>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/html5.svg" width="48" height="48" alt="HTML5" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/html5.svg" width="48" height="48" alt="HTML5" />
             <br/>HTML5
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/scss.svg" width="48" height="48" alt="SCSS" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/scss.svg" width="48" height="48" alt="SCSS" />
             <br/>SCSS
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/javascript.svg" width="48" height="48" alt="JavaScript" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/javascript.svg" width="48" height="48" alt="JavaScript" />
             <br/>JavaScript
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/typescript.svg" width="48" height="48" alt="TypeScript" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/typescript.svg" width="48" height="48" alt="TypeScript" />
             <br/>TypeScript
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/react.svg" width="48" height="48" alt="React" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/react.svg" width="48" height="48" alt="React" />
             <br/>React
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/solidity.svg" width="48" height="48" alt="Solidity" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/redux.svg" width="48" height="48" alt="Redux" />
+            <br/>Redux
+        </td>
+        <td align="center" width="80">
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/solidity.svg" width="48" height="48" alt="Solidity" />
             <br/>Solidity
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/graphql.svg" width="48" height="48" alt="GraphQL" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/graphql.svg" width="48" height="48" alt="GraphQL" />
             <br/>GraphQL
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/node.svg" width="48" height="48" alt="NodeJS" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/node.svg" width="48" height="48" alt="NodeJS" />
             <br/>NodeJS
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/laravel.svg" width="48" height="48" alt="Laravel" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/laravel.svg" width="48" height="48" alt="Laravel" />
             <br/>Laravel
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/mysql.svg" width="48" height="48" alt="MySQL" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/mysql.svg" width="48" height="48" alt="MySQL" />
             <br/>MySQL
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/mongodb.svg" width="48" height="48" alt="MongoDB" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/mongodb.svg" width="48" height="48" alt="MongoDB" />
             <br/>MongoDB
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/redis.svg" width="48" height="48" alt="Redis" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/redis.svg" width="48" height="48" alt="Redis" />
             <br/>Redis
         </td>
         <td align="center" width="80">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/eslint.svg" width="48" height="48" alt="ESLint" />
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/eslint.svg" width="48" height="48" alt="ESLint" />
             <br/>ESLint
         </td>
     </tr>
