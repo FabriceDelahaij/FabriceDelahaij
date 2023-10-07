@@ -63,12 +63,20 @@
             <br/>MongoDB
         </td>
         <td align="center" width="80">
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/couchdb.svg" width="48" height="48" alt="CouchDB" />
+            <br/>CouchDB
+        </td>
+        <td align="center" width="80">
             <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/redis.svg" width="48" height="48" alt="Redis" />
             <br/>Redis
         </td>
         <td align="center" width="80">
             <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/eslint.svg" width="48" height="48" alt="ESLint" />
             <br/>ESLint
+        </td>
+        <td align="center" width="80">
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/docker.svg" width="48" height="48" alt="Docker" />
+            <br/>Docker
         </td>
     </tr>
 </table>
