@@ -55,6 +55,10 @@
             <br/>Laravel
         </td>
         <td align="center" width="80">
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/lua.svg" width="48" height="48" alt="LUA" />
+            <br/>LUA
+        </td>
+        <td align="center" width="80">
             <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/mysql.svg" width="48" height="48" alt="MySQL" />
             <br/>MySQL
         </td>
@@ -77,6 +81,10 @@
         <td align="center" width="80">
             <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/docker.svg" width="48" height="48" alt="Docker" />
             <br/>Docker
+        </td>
+        <td align="center" width="80">
+            <img src="https://github.com/FabriceDelahaij/FabriceDelahaij/blob/main/images/git.svg" width="48" height="48" alt="GIT" />
+            <br/>GIT
         </td>
     </tr>
 </table>
